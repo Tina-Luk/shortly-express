@@ -11,4 +11,4 @@ The application has:
 - Authenticated Routes
 - Testing
 
-![](https://s3-us-west-2.amazonaws.com/forge-production.galvanize.com/content/4fc0f5e160804ec321be2a0e2e5d56ab.gif)
+![shortly](https://s3-us-west-2.amazonaws.com/forge-production.galvanize.com/content/4fc0f5e160804ec321be2a0e2e5d56ab.gif)
